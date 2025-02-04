@@ -1,4 +1,4 @@
-# IXD5106-0NC Intro Design for Interaction
+# Intro Design for Interaction
 
 **Course Code**-IXD5106-0NC
 
